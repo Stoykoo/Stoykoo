@@ -27,7 +27,7 @@ Desarrollador de software enfocado en la creación de soluciones eficientes y es
   <a href="https://www.linkedin.com/in/gabriel-stoyko-martinez-garcia-708349266/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://mi-stoyko.online">
+  <a href="https://www.mi-stoyko.online/">
     <img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
